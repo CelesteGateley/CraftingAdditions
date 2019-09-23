@@ -1,6 +1,6 @@
-package net.fluxinc.craftingadditions.utils;
+package xyz.fluxinc.craftingadditions.utils;
 
-import net.fluxinc.craftingadditions.CraftingAdditions;
+import xyz.fluxinc.craftingadditions.CraftingAdditions;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
 import org.bukkit.event.player.PlayerJoinEvent;

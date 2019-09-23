@@ -1,6 +1,6 @@
 name: CraftingAdditions
 version: ${project.version}
-main: net.fluxinc.craftingadditions.CraftingAdditions
+main: xyz.fluxinc.craftingadditions.CraftingAdditions
 api-version: 1.13
 authors: [CelesteMagisteel]
 description: Adds some additions to the crafting system, to make life easier
